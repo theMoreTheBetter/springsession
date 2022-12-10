@@ -8,7 +8,7 @@
     <artifactId>springsession</artifactId>
     <version>1.0-SNAPSHOT</version>
     <properties>
-        <spring.version>5.0.8.RELEASE</spring.version>
+        <spring.version>6.0.0</spring.version>
         <springsession.version>2.0.5.RELEASE</springsession.version>
         <springdata.version>2.0.9.RELEASE</springdata.version>
     </properties>
